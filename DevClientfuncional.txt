@@ -45,7 +45,7 @@ local WhitelistData = {
     ["meliodas1wrt"] = {type = "Usuário adm", expires = parseDateTime("15/12/2030 23:59")},
     ["gojodev73"] = {type = "Usuário adm", expires = parseDateTime("15/12/3000 23:59")},
     ["kingstongh90"] = {type = "Usuário adm", expires = parseDateTime("15/12/2030 23:59")},
-    ["vampzinkkj_1"] = {type = "Usuário adm", expires = parseDateTime("15/12/2030 23:59")},
+    ["vinilatas"] = {type = "Usuário adm", expires = parseDateTime("15/12/4000 23:59")},
     ["ppyszt"] = {type = "Usuário adm", expires = parseDateTime("7/01/2026 18:30")},
     ["pedro_roneido"] = {type = "Usuário adm", expires = parseDateTime("10/01/2030 12:00")},
     ["pedro_roneido20"] = {type = "Usuário adm", expires = parseDateTime("10/01/2030 12:00")},
